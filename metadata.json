@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS OS — AI-Powered Security Operating System",
+  "description": "Advanced Security Operating System (2026 Edition) featuring kernel-grade isolation, real-time threat detection, nftables firewall, file integrity monitoring, interactive terminal, and AI cybersecurity intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
